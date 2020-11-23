@@ -41,17 +41,22 @@ bash autorun.sh
 
 ## Folder Explanation
 - figure/
+
     This folder contains some displaying figures.
+    
 - features/
+
     This folder contains IMPRESS and pathologists' assessed features for HER2+ and TNBC cohorts.
+    
 - clinical/
+
     This folder contains clinical information for HER2+ and TNBC cohorts.
 
 
 
 ## Contact Information
-> Zhi Huang
+Zhi Huang
 
-> Purdue University, West Lafayette, IN, USA
+Purdue University, West Lafayette, IN, USA
 
-> huang898@purdue.edu
+huang898@purdue.edu
