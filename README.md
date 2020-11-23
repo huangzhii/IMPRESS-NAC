@@ -51,5 +51,7 @@ bash autorun.sh
 
 ## Contact Information
 > Zhi Huang
+
 > Purdue University, West Lafayette, IN, USA
+
 > huang898@purdue.edu
