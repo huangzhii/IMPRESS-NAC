@@ -1,5 +1,5 @@
-# IMPRESS-NAC
-Huang <em>et al.</em> Artificial Intelligence Predicts Breast Cancer Neoadjuvant Chemotherapy Response from Multi-source Pathologic Images
+# Artificial Intelligence Predicts Breast Cancer Neoadjuvant Chemotherapy Response from Multi-source Pathologic Images
+Huang <em>et al.</em> 2020
 
 
 [![license](https://img.shields.io/github/license/mashape/apistatus.svg?maxAge=2592000)](https://github.com/huangzhii/IMPRESS-NAC/blob/master/LICENSE)
