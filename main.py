@@ -21,7 +21,7 @@ from sklearn.metrics import auc, roc_curve, f1_score, recall_score, precision_sc
 def parse_args():
     parser = argparse.ArgumentParser()
     parser.add_argument('--cohort', type=str, default='TNBC')
-    parser.add_argument('--seed', type=int, default=0)
+    parser.add_argument('--seed', type=int, default=1)
     parser.add_argument('--model', type=str, default='LR')
     parser.add_argument('--average_method', type=str, default='binary')
     parser.add_argument('--n_folds', type=float, default=5)

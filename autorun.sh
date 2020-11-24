@@ -1,4 +1,3 @@
-python main.py --cohort HER2+ --seed 0; \
 python main.py --cohort HER2+ --seed 1; \
 python main.py --cohort HER2+ --seed 2; \
 python main.py --cohort HER2+ --seed 3; \
@@ -8,8 +7,18 @@ python main.py --cohort HER2+ --seed 6; \
 python main.py --cohort HER2+ --seed 7; \
 python main.py --cohort HER2+ --seed 8; \
 python main.py --cohort HER2+ --seed 9; \
+python main.py --cohort HER2+ --seed 10; \
+python main.py --cohort HER2+ --seed 11; \
+python main.py --cohort HER2+ --seed 12; \
+python main.py --cohort HER2+ --seed 13; \
+python main.py --cohort HER2+ --seed 14; \
+python main.py --cohort HER2+ --seed 15; \
+python main.py --cohort HER2+ --seed 16; \
+python main.py --cohort HER2+ --seed 17; \
+python main.py --cohort HER2+ --seed 18; \
+python main.py --cohort HER2+ --seed 19; \
+python main.py --cohort HER2+ --seed 20; \
 python summary.py --cohort HER2+; \
-python main.py --cohort TNBC --seed 0; \
 python main.py --cohort TNBC --seed 1; \
 python main.py --cohort TNBC --seed 2; \
 python main.py --cohort TNBC --seed 3; \
@@ -18,5 +27,16 @@ python main.py --cohort TNBC --seed 5; \
 python main.py --cohort TNBC --seed 6; \
 python main.py --cohort TNBC --seed 7; \
 python main.py --cohort TNBC --seed 8; \
-python main.py --cohort TNBC --seed 9;
+python main.py --cohort TNBC --seed 9; \
+python main.py --cohort TNBC --seed 10; \
+python main.py --cohort TNBC --seed 11; \
+python main.py --cohort TNBC --seed 12; \
+python main.py --cohort TNBC --seed 13; \
+python main.py --cohort TNBC --seed 14; \
+python main.py --cohort TNBC --seed 15; \
+python main.py --cohort TNBC --seed 16; \
+python main.py --cohort TNBC --seed 17; \
+python main.py --cohort TNBC --seed 18; \
+python main.py --cohort TNBC --seed 19; \
+python main.py --cohort TNBC --seed 20; \
 python summary.py --cohort TNBC; \
